@@ -1,4 +1,11 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Python Django Projcet
+- 🌱 I’m currently learning Node Js
+- 🤔 I’m looking for help with Carrier change to Developer
+- 💬 Ask me about any python and analytics related issue
+- 📫 How to reach me: @opk1998 in Linkedin
+
+
 
 <!--
 **op9494/op9494** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
