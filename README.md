@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Node Js
 - 🤔 I’m looking for help with Carrier change to Developer
 - 💬 Ask me about any python and analytics related issue
-- 📫 How to reach me: @opk1998 in Linkedin
+- 📫 How to reach me: [@opk1998](https://www.linkedin.com/in/opk1998/) in Linkedin
 
 
 
